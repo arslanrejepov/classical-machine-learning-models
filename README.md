@@ -46,22 +46,31 @@ classical-machine-learning-models/
 1️⃣ Classification
 
 ✅ Logistic Regression
+
 ⏳ Decision Tree
+
 ⏳ Random Forest
+
 ⏳ Support Vector Machine (SVM)
+
 ⏳ K-Nearest Neighbors (KNN)
+
 ⏳ Naive Bayes
+
 ⏳ Gradient Boosting (XGBoost / LightGBM)
 
 2️⃣ Regression
 
 ⏳ Linear Regression
+
 ⏳ Ridge & Lasso Regression
+
 ⏳ Random Forest Regressor
 
 3️⃣ Clustering (Unsupervised)
 
-|-⏳ K-Means
+⏳ K-Means
+
 ⏳ DBSCAN
 
 ---
@@ -75,14 +84,15 @@ All datasets are taken from Kaggle and are used consistently across models
 
 #  🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
-![Seaborn](https://img.shields.io/badge/Seaborn-Stats-4C72B0)
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" />
+</p>
 
 ---
 
