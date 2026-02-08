@@ -45,7 +45,7 @@ classical-machine-learning-models/
 
 1️⃣ Classification
 
-✅ Logistic Regression
+⏳ Logistic Regression
 
 ⏳ Decision Tree
 
@@ -61,7 +61,7 @@ classical-machine-learning-models/
 
 2️⃣ Regression
 
-⏳ Linear Regression
+✅ Linear Regression
 
 ⏳ Ridge & Lasso Regression
 
