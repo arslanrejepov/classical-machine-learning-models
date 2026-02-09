@@ -1,4 +1,4 @@
-# Classical Machine Learning Models by Arslan Rejebov🚀
+# Classical Machine Learning Models 🧠
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Datasets-blue)
@@ -45,7 +45,7 @@ classical-machine-learning-models/
 
 1️⃣ Classification
 
-⏳ Logistic Regression
+✅ Logistic Regression
 
 ⏳ Decision Tree
 
