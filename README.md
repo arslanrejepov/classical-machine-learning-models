@@ -47,8 +47,7 @@ classical-machine-learning-models/
 
 ✅ Logistic Regression
 
-![loading](https://github.com/user-attachments/assets/35841da3-3cd3-430a-9222-68285c65ec91)
- Decision Tree
+<img src="loading.gif" width="120">  Decision Tree
 
 ⏳ Random Forest
 
