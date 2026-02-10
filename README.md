@@ -47,9 +47,9 @@ classical-machine-learning-models/
 
 ✅ Logistic Regression
 
-▶️ Decision Tree
+✅ Decision Tree
 
-⏳ Random Forest
+▶️ Random Forest
 
 ⏳ Support Vector Machine (SVM)
 
