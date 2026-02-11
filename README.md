@@ -63,6 +63,8 @@ classical-machine-learning-models/
 
 ✅ Linear Regression
 
+✅ Decision Tree Regressor
+
 ⏳ Ridge & Lasso Regression
 
 ⏳ Random Forest Regressor
