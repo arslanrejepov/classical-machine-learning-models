@@ -30,6 +30,8 @@ classical-machine-learning-models/
 ├── regression/
 │   ├── linear_regression.ipynb
 │   ├── ridge_lasso.ipynb
+│   ├── decision_tree.ipynb
+│   ├── random_forest.ipynb
 │   └── random_forest_regressor.ipynb
 │
 ├── clustering/
@@ -64,6 +66,8 @@ classical-machine-learning-models/
 ✅ Linear Regression
 
 ✅ Decision Tree Regressor
+
+✅ Random Forest
 
 ⏳ Ridge & Lasso Regression
 
